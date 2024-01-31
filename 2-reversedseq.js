@@ -1,3 +1,7 @@
+// coding challenge
+// 2/366
+// https://www.codewars.com/kata/5a00e05cc374cb34d100000d/solutions/javascript
+
 const reversedSeq = (n) => [...Array(n)].map((num, i) => n - i);
 
 // const reversedSeq = (n) => [...Array(n)].map((num, i) => i + 1).reverse();

@@ -1,5 +1,5 @@
 // Coding Challenge
-// 14/366
+// 15/366
 // https://www.codewars.com/kata/576b93db1129fcf2200001e6/train/javascript
 
 // const sumArray = (array) =>

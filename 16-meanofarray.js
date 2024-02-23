@@ -1,5 +1,5 @@
 // Coding Challenge
-// 15/366
+// 16/366
 // https://www.codewars.com/kata/563e320cee5dddcf77000158
 
 const getAverage = (x) => Math.floor(x.reduce((acc, curr) => acc + curr) / x.length);

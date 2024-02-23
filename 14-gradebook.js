@@ -1,5 +1,5 @@
 // Coding Challenge
-// 13/366
+// 14/366
 // https://www.codewars.com/kata/55cbd4ba903825f7970000f5
 
 function getGrade(s1, s2, s3) {

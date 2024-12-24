@@ -1,6 +1,5 @@
 // Coding Challenge
 // 71/366
-// https://www.codewars.com/kata/5748a883eb737cab000022a6/train/javascript
 
 // function elevator(left, right, call) {
 //   if(Math.abs(left - call) > Math.abs(right - call)){

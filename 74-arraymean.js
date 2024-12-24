@@ -1,6 +1,5 @@
 // Coding Challenge
-// 73/366
-// https://www.codewars.com/kata/570a6a46455d08ff8d001002/train/javascript
+// 74/366
 
 // function findAverage(nums) {
 //   let sum = 0;
